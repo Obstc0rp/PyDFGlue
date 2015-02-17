@@ -8,3 +8,10 @@ Usage
 -----
 
     $ python PyDFGlue <outputfilename> [<inputfilename> ...]
+    
+
+Requirements
+------------
+
+* Python 2
+* pyPdf

@@ -1,4 +1,4 @@
-__author__ = 'Washburn'
+__author__ = 'Obstc0rp'
 
 print 'load imports'
 import sys
