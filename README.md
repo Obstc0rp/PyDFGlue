@@ -25,5 +25,7 @@ Build
 Requires
 * py2exe
 
+(Optional)
+----------
 After that move the PyDFGlue folder anywhere you want to (e.g. Program Files).
 Then add the PyDFGlue folder to your PATH variable.
